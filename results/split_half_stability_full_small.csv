@@ -1,0 +1,8 @@
+dataset,split_size,jaccard_top20_split,spearman_split,shared_tokens
+tweet_eval,30,0.0526,0.5222,28
+nollysenti_pcm,30,0.2121,0.4883,52
+nollysenti_yor,30,0.1111,0.3823,48
+naijasenti_pcm,30,0.1765,0.3327,58
+imdb,30,0.2903,0.2925,257
+amazon_polarity,30,0.2121,0.225,163
+naijasenti_yor,30,0.0526,0.0711,17
