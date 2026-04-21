@@ -1,0 +1,12 @@
+pandas==2.2.2
+numpy
+torch
+datasets==4.0.0
+transformers
+accelerate
+evaluate
+shap
+scikit-learn
+pyarrow
+sentencepiece
+scipy
